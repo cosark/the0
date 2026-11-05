@@ -52,6 +52,10 @@ For a server, follow [Docker Compose](https://docs.the0.app/deployment/docker-co
 helm repo add the0 https://alexanderwanyoike.github.io/the0
 ```
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/The0/)
+
 ## Languages
 
 | Language | SDK | Guide |
